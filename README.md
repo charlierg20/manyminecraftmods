@@ -1,4 +1,4 @@
-# mmm
+# ManyMinecraftMods
 Create mod profiles (ManyPacks) and load them,
 
 ### How to install
