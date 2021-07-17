@@ -1,5 +1,5 @@
 # ManyMinecraftMods
-Create MC mod profiles (ManyPacks) and load them,
+Create MC mod profiles (ManyPacks) and load them.
 
 ### How to install
 Either download the `.zip` file and extract it before running the `.exe` file inside, or download the graphical installer and follow the instructions.
