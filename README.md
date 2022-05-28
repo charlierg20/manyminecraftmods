@@ -1,6 +1,9 @@
 # ManyMinecraftMods
 Create MC mod profiles (ManyPacks) and load them.
 
+# ARCHIVED
+As of 28/05/2022, MMM is archived. The tool is outdated and I would suggest you use MultiMC or CurseForge. **No support will be given for this program.**
+
 ### How to install
 Either download the `.zip` file and extract it before running the `.exe` file inside, or download the graphical installer and follow the instructions.
 
